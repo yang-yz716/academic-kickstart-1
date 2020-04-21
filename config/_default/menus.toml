@@ -11,11 +11,6 @@
 [[main]]
   name = "Skills"
   url = "#skills"
-  weight = 60
-
-[[main]]
-  name = "Education"
-  url = "#education"
   weight = 20
 
 [[main]]
