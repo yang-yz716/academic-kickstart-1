@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Bangguo Yu
 
 # Username (this should match the folder name)
 authors:
@@ -35,7 +35,7 @@ education:
     year: 2009
   - course: BSc in Automation
     institution: Shandong University of Science and Technology
-    year: 2014-2018
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
