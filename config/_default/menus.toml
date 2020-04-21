@@ -34,8 +34,8 @@
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Skills"
+  url = "#skills"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
