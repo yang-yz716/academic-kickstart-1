@@ -45,12 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: csdn
+  icon_pack: fab
+  link: https://me.csdn.net/weixin_43823054
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/ybgdgh
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+When I standed on the field of ROBOCON competition in 2017's, behind was the encouragement of teammates and in front of was the hope of victory. At that moment I fell in love with Robotics. As the major of automation student, I feel honor when I processed the part of robot, welded circuit board and debug the program. Every coherent action of robot is the most beautiful art in my eyes. And when I was familiar with the bottom knewledge of robot, the top task of robot in perception and planning was my goal.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The movie of "Edge of Tomorrow" and "Next" inspire me in the method of learning for automatic robot. In my opinion, the deep reinforcement learning can help robot achieve the same performance as movies by designing reasonable strategy of learning. Of course, the day has not yet come, and seems to be difficult, but it is because of its uncertainty that it's worth studying.
