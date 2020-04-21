@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/ybgdgh/academic-kickstart", content_
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "yubangguosdu@163.com"
-phone = "17855"
+phone = "17854253735"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -117,7 +117,7 @@ phone = "17855"
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "ybg.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
