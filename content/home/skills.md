@@ -15,21 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "fa-computer-classic"
+  icon_pack = "far"
+  name = "Programming"
+  description = "C++, Python, C, Matlab"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "fa-microchip"
+  icon_pack = "far"
+  name = "Embedden System"
+  description = "stm32, K60, CAN, UART, IIC, SPI"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "fas fa-edit"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Design"
+  description = "Altium Designer for hardware, Solidworks for machine"
+
+[[feature]]
+  icon = "fa-robot"
+  icon_pack = "far"
+  name = "Robotics"
+  description = "ROS, PID control, sensor filter, navigation" 
+
+[[feature]]
+  icon = "fs-map-marked-alt"
+  icon_pack = "fas"
+  name = "SLAM"
+  description = "mapping, location, 3D scene graph"  
+
+[[feature]]
+  icon = "fa-graduation-cap"
+  icon_pack = "fas"
+  name = "Learning"
+  description = "Reinforcement learning, habitat platform"
 
 +++
