@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: csdn
-  icon_pack: fab
-  link: https://me.csdn.net/weixin_43823054
+# - icon: csdn
+#   icon_pack: fab
+#   link: https://me.csdn.net/weixin_43823054
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
