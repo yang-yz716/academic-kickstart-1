@@ -15,14 +15,14 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-computer-classic"
+  icon = "far fa-file-code"
   icon_pack = "far"
   name = "Programming"
   description = "C++, Python, C, Matlab"
   
 [[feature]]
-  icon = "fa-microchip"
-  icon_pack = "far"
+  icon = "fas fa-microchip"
+  icon_pack = "fas"
   name = "Embedden System"
   description = "stm32, K60, CAN, UART, IIC, SPI"
 
@@ -33,8 +33,8 @@ subtitle = ""
   description = "Altium Designer for hardware, Solidworks for machine"
 
 [[feature]]
-  icon = "fa-robot"
-  icon_pack = "far"
+  icon = "fas fa-robot"
+  icon_pack = "fas"
   name = "Robotics"
   description = "ROS, PID control, sensor filter, navigation" 
 
