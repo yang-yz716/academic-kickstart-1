@@ -39,14 +39,14 @@ subtitle = ""
   description = "ROS, PID control, sensor filter, navigation" 
 
 [[feature]]
-  icon = "fs-map-marked-alt"
+  icon = "fas fs-map-marked-alt"
   icon_pack = "fas"
   name = "SLAM"
   description = "mapping, location, 3D scene graph"  
 
 [[feature]]
-  icon = "fa-graduation-cap"
-  icon_pack = "fas"
+  icon = "fab fa-learnpub"
+  icon_pack = "fab"
   name = "Learning"
   description = "Reinforcement learning, habitat platform"
 
