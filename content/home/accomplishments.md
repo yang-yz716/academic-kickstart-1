@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "National second prize"
+  organization_url = "https://cpipc.chinadegrees.cn//cw/detail/6/2c9088a76bc587c8016c9bb4c89766a2"
+  title = "The 14th China Graduate Electronics Design Contest"
+  url = "https://cpipc.chinadegrees.cn//cw/detail/6/2c9088a6696cbfd70169950ac06d00bd"
+  <!-- certificate_url = "https://www.coursera.org" -->
+  date_start = "2019-08-16"
   date_end = ""
-  description = ""
+  description = "We use apriltag to achieve the object tracking and use ROS to display the tracking on the speacial IndustriPi."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "National first prize"
+  organization_url = "http://www.cnrobocon.net/#/notice/165"
+  title = "The 16th and 17th China University Robot Competition"
+  url = "http://www.cnrobocon.net/#/"
+  <!-- certificate_url = "https://www.edx.org" -->
+  date_start = "2018-06-23"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Our team contains more than twenty prople, divided in software, hardware circuit design and machine design. As the captain of our team, I am in charge of the recruiting, training, and all the research route."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "National first prize"
+  <!-- organization_url = "https://www.datacamp.com" -->
+  title = "National Undergraduate Electronocs Design Contest"
+  url = "http://nuedc.xjtu.edu.cn/"
+  <!-- certificate_url = "https://www.datacamp.com" -->
+  date_start = "2017-08-09"
+  date_end = ""
   description = ""
 
 +++
