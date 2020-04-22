@@ -38,7 +38,6 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "National first prize"
-  <!-- organization_url = "https://www.datacamp.com" -->
   title = "National Undergraduate Electronocs Design Contest"
   url = "http://nuedc.xjtu.edu.cn/"
   date_start = "2017-08-09"
