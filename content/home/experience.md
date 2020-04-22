@@ -18,27 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Reserch Intern"
+  company = "DMAI"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Guangzhou, China"
+  date_start = "2019-08-20"
+  date_end = "2020-01-03"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Indoor 3D structured scene graph modeling
+  * 3D object relationship detection
+  * Semantic navigation demo based on 3D scene graph
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Embedded engineer"
+  company = "Shandong University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Shandong, China"
+  date_start = "2019-05-01"
+  date_end = "2019-08-19"
+  description = """
+  Responsibilities include:
+  
+  * Designing embedded control board hardware and shell
+  * Communication with server by CAN to control more than ten borad simultaneously
+  * Control strong electricity (220V AC) using weak current (5V DC)
+  
+  """
+
+[[experience]]
+  title = "SLAM Algorithm engineer"
+  company = "Shandong University"
+  company_url = ""
+  location = "Shandong, China"
+  date_start = "2018-07-01"
+  date_end = "2019-03-19"
+  description = """
+  Responsibilities include:
+  
+  * Reading the Cartographer designed by Google
+  * The open loop optimization of SLAM based on apriltag to overcome the gallery with sparse features
+  * Deploying the algorithm on the real robot 
+  
+  """
 
 +++
