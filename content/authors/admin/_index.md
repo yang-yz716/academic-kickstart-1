@@ -34,16 +34,16 @@ education:
     institution: Shandong University
     year: 2009
     description:
-      * Postgraduate recommendation
-      * Outstanding freshman scholarship
-      * Second-class academic scholarship
+      Postgraduate recommendation
+      Outstanding freshman scholarship
+      Second-class academic scholarship
   - course: BSc in Automation
     institution: Shandong University of Science and Technology
     year: 2018
     description:
-      * Top 10 in major (180)
-      * Obtains the outstanding graduate title
-      * Obtains First Level Scholarship four times and Second Level Scholarship three times.
+      Top 10 in major (180)
+      Obtains the outstanding graduate title
+      Obtains First Level Scholarship four times and Second Level Scholarship three times.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
