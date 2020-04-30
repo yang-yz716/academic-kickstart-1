@@ -26,12 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Control system"
+    tag = "system"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "SLAM"
+    tag = "SLAM"
+
+  [[content.filter_button]]
+    name = "Reinforcement learning"
+    tag = "RL"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -57,11 +61,11 @@ subtitle = ""
   color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "DeepSkyBlue"
+  gradient_end = "SkyBlue"
   
   # Background image.
-  image = "background.jpg"  # Name of image in `static/img/`.
+  image = "ybg.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
