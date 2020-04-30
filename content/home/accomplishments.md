@@ -53,6 +53,6 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2016-01-01"
   date_end = "2017-08-27"
-  description = "We took play of the 'double cars chasing", the hardest item of this contest. This was the first contest in my college, and I learned ARM, coding, image processing and PID control system from the contest."
+  description = "We took play of the 'double cars chasing', the hardest item of this contest. This was the first contest in my college, and I learned ARM, coding, image processing and PID control system from the contest."
 
 +++
