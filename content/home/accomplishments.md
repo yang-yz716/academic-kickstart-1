@@ -51,8 +51,8 @@ date_format = "Jan 2006"
   organization_url = "http://www.360doc.com/content/16/0927/22/35763864_594233747.shtml"
   title = "National Undergraduate Smart Car Contest"
   url = ""
-  date_start = "2016-01"
-  date_end = "2017-08"
+  date_start = "2016-01-01"
+  date_end = "2017-08-27"
   description = "We took play of the 'double cars chasing", the hardest item of this contest. This was the first contest in my college, and I learned ARM, coding, image processing and PID control system from the contest."
 
 +++
