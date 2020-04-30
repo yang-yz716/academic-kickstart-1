@@ -27,7 +27,7 @@ subtitle = ""
   description = "mapping, location, 3D scene graph"  
 
 [[feature]]
-  icon = "fab fa-learnpub"
+  icon = "fab fa-leanpub"
   icon_pack = "fab"
   name = "Learning"
   description = "Reinforcement learning, habitat platform"

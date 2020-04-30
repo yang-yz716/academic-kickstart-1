@@ -19,19 +19,21 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Award"
+  url = "#accomplishments"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Projects"
+  url = "#projects"
   weight = 40
 
 [[main]]
-  name = "Award"
-  url = "#accomplishments"
+  name = "Publications"
+  url = "#publications"
   weight = 50
+
+
 
 
 # Link to a PDF of your resume/CV from the menu.

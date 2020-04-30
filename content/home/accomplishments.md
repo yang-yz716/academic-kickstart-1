@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Award"
 subtitle = ""
 
 # Date format
@@ -38,6 +38,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "National first prize"
+  organization_url = "http://www.cnrobocon.net/#/notice/165"
   title = "National Undergraduate Electronocs Design Contest"
   url = "http://nuedc.xjtu.edu.cn/"
   date_start = "2017-08-09"
