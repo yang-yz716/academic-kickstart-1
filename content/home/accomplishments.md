@@ -43,6 +43,16 @@ date_format = "Jan 2006"
   url = "http://nuedc.xjtu.edu.cn/"
   date_start = "2017-08-09"
   date_end = ""
-  description = ""
+  description = "Our team designed a Ball and Plate control system with rgb camera. We used PID algorithm to set the velocity and position close loop, and achieved the control performance of ball's movement."
+
+
+[[item]]
+  organization = "National second prize"
+  organization_url = "http://www.360doc.com/content/16/0927/22/35763864_594233747.shtml"
+  title = "National Undergraduate Smart Car Contest"
+  url = ""
+  date_start = "2016-01"
+  date_end = "2017-08"
+  description = "We took play of the 'double cars chasing", the hardest item of this contest. This was the first contest in my college, and I learned ARM, coding, image processing and PID control system from the contest."
 
 +++
