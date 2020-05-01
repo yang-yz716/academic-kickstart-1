@@ -67,4 +67,4 @@ projects:
 slides: ""
 ---
 
-{{< video src="Iros.mp4" controls="yes" >}}
+{{< video src="Iros.mp4" controls="no" >}}
