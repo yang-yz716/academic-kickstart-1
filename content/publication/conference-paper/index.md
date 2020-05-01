@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/RSJ International Conference on Intelligent Robots and Systems*
+publication: In *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems*
 publication_short: In *IROS*
 
 abstract: Abstract—For high-level human-robot interaction tasks, 3D scene understanding is important and non-trivial for autonomous robots. However, parsing and utilizing effective environment information of the 3D scene is not trivial due to the complexity of the 3D environment and the limited ability for reasoning about our visual world. Although there have been great efforts on semantic detection and scene analysis, the existing solutions for parsing and representation of the 3D scene still fail to preserve accurate semantic information and equip sufficient applicability. This study proposes a bottomup construction framework for structured 3D scene graph generation, which efficiently describes the objects, relations and attributes of the 3D indoor environment with structured representation. In the proposed method, we adopt visual perception to capture the semantic information and inference from scene priors to calculate the optimal parse graph. Afterwards, an improved probabilistic grammar model is used to represent the scene priors. Experiment results demonstrate that the proposed framework significantly outperforms existing methods in terms of accuracy, and a demonstration is provided to verify the applicability in applying to high-level human-robot interaction tasks.
@@ -44,14 +44,10 @@ url_code: '#'
 # url_source: '#'
 # url_video: 'IROS.mkv'
 
-video:
-  src="IROS.mkv"
-  controls="yes"
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'featured.jpg'
+  caption: 'IROS.mkv'
   focal_point: ""
   preview_only: false
 
@@ -70,8 +66,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
