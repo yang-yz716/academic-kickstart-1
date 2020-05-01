@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+**Bangguo Yu**, Chongyu Chen, Fengyu Zhou*, Fang Wan, Wenmi Zhuang, Yang Zhao, “A Bottom-up Framework for Construction of Structured Semantic 3D Scene Graph,” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020 (submitted).
 {{% /alert %}}
