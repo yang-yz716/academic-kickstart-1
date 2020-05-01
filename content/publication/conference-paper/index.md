@@ -47,7 +47,7 @@ url_code: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'IROS.mkv'
+  caption: '3D scene graph'
   focal_point: ""
   preview_only: false
 
@@ -66,3 +66,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+{{< video src="IROS.mkv" controls="yes" >}}
