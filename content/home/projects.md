@@ -27,7 +27,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Control system"
-    tag = "system"
+    tag = "Control system"
   
   [[content.filter_button]]
     name = "SLAM"

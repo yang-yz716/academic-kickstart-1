@@ -35,7 +35,7 @@ Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoq
 
 {{< figure src="zhengshu.jpg" title="" lightbox="true" >}}
 
-{{< figure src="caption.jpg" title="" lightbox="true" >}}
+{{< figure src="captain.jpg" title="" lightbox="true" >}}
 
 {{< figure src="old-team.jpg" title="" lightbox="true" >}}
 
