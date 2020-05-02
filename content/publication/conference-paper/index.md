@@ -29,7 +29,7 @@ abstract: Abstract—For high-level human-robot interaction tasks, 3D scene unde
 summary: submited
 
 tags:
-- semantic SLAM
+- SLAM
 featured: true
 
 # links:
@@ -57,7 +57,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- 3D structured semantic scene graph
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

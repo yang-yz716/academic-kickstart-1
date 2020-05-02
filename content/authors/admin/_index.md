@@ -82,5 +82,3 @@ When I stood on the field of ROBOCON competition in 2017's, behind was the encou
 
 The movies “Edge of Tomorrow” and “Next” inspire me with the method of learning for the automatic robot. In my opinion, the deep reinforcement learning can help robots achieve the same performance as movies by designing reasonable strategy of learning. Parsing and utilizing effective environment information of the 3D scene is not trivial due to
 the complexity of the 3D environment and the limited ability for reasoning about our visual world. Of course, the day has not yet come, and seems to be difficult, but it is because of its uncertainty that it's worth studying.
-
-I : heart : Academic : smile :

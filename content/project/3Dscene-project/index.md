@@ -2,7 +2,7 @@
 title: 3D structured semantic scene graph
 summary: The semantic environment model of 3D structured scene graph for the implementation of robot task
 tags:
-- sLAM
+- SLAM
 date: "2020-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
