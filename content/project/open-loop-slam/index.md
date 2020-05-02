@@ -35,6 +35,8 @@ Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoq
 
 {{< figure src="machine.gif" title="" lightbox="true" >}}
 
+{{< figure src="onmi.jpg" title="" lightbox="true" >}}
+
 {{< video library="1" src="slam.mp4" controls="yes" >}}
 
 {{< video library="1" src="open-loop.mp4" controls="yes" >}}
