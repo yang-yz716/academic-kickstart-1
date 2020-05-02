@@ -39,8 +39,6 @@ Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoq
 
 {{< figure src="captain.jpg" title="" lightbox="true" >}}
 
-{{< figure src="old-team1.jpg" title="" lightbox="true" >}}
-
 {{< figure src="team.jpg" title="" lightbox="true" >}}
 
 {{< video library="1" src="robocon.mp4" controls="yes" >}}

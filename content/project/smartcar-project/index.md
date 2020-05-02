@@ -36,6 +36,4 @@ Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoq
 
 {{< figure src="team.jpg" title="" lightbox="true" >}}
 
-{{< figure src="me.jpg" title="" lightbox="true" >}}
-
 {{< video library="1" src="smartcar.mp4" controls="yes" >}}
