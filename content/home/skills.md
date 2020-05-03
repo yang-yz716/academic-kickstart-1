@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "fab fa-leanpub"
   icon_pack = "fab"
-  name = "Learning"
+  name = "Machine Learning"
   description = "Reinforcement learning, Habitat platform"
 
 [[feature]]
