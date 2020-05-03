@@ -18,19 +18,19 @@ subtitle = ""
   icon = "fas fa-robot"
   icon_pack = "fas"
   name = "Robotics"
-  description = "ROS, PID control, sensor filter, navigation" 
+  description = "ROS, PID Control, Sensor Filter, Navigation" 
 
 [[feature]]
   icon = "fas fa-map-marked-alt"
   icon_pack = "fas"
   name = "SLAM"
-  description = "mapping, location, 3D scene graph"  
+  description = "Mapping, Location, 3D scene graph"  
 
 [[feature]]
   icon = "fab fa-leanpub"
   icon_pack = "fab"
   name = "Learning"
-  description = "Reinforcement learning, habitat platform"
+  description = "Reinforcement learning, Habitat platform"
 
 [[feature]]
   icon = "far fa-file-code"
@@ -42,12 +42,12 @@ subtitle = ""
   icon = "fas fa-microchip"
   icon_pack = "fas"
   name = "Embedden System"
-  description = "stm32, K60, CAN, UART, IIC, SPI"
+  description = "STM32, K60, CAN, UART, IIC, SPI"
 
 [[feature]]
   icon = "fas fa-edit"
   icon_pack = "fas"
   name = "Design"
-  description = "Altium Designer for hardware, Solidworks for machine"
+  description = "Altium Designer for hardware, SolidWorks for machine"
 
 +++
