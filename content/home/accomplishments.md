@@ -82,7 +82,7 @@ date_format = "Jan 2006"
   title = "The 5th Shandong provincial University Robot Competition"
   url = ""
   date_start = "2016-09-23"
-  date_end = "2016-10-01"
+  date_end = "2016-10-23"
   description = "Our team took part in the SYNCHRONOUS ROBOT and got the best grade in this item."
 
 [[item]]
@@ -91,7 +91,10 @@ date_format = "Jan 2006"
   title = "The 2th Shandong SCM application design Competition"
   url = "http://www.sdmu.edu.cn/info/1026/3436.htm"
   date_start = "2016-09-23"
-  date_end = "2016-10-01"
+  date_end = "2016-10"
   description = "Our team took part in the smart car using 15 photoelectric switch sensors and got the best grade in this item."
+
+
+
 
 +++
