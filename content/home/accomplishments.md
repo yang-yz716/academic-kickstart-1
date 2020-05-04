@@ -59,7 +59,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Provincial second prize"
   organization_url = "http://www.sdxxgqt.com/2017/0703/20490.html"
-  title = "“Challenge Cup” Technological Innovation Competition"
+  title = "Challenge Cup Technological Innovation Competition"
   url = "http://www.tiaozhanbei.net/article/15704/"
   date_start = "2017-01"
   date_end = "2017-07"

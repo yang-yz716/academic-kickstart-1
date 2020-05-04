@@ -32,7 +32,7 @@ education:
   #   year: 2012
   - course: MEng in Control Engineering
     institution: Shandong University
-    year: 2009
+    year: 2019
     description:
       Postgraduate recommendation
       Outstanding freshman scholarship
