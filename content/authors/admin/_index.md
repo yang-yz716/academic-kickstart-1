@@ -32,14 +32,14 @@ education:
   #   year: 2012
   - course: MEng in Control Engineering
     institution: Shandong University
-    year: 2019
+    year: 2019 - now
     description:
       Postgraduate recommendation
       Outstanding freshman scholarship
       Second-class academic scholarship
   - course: BSc in Automation
     institution: Shandong University of Science and Technology
-    year: 2014-2018
+    year: 2014 - 2018
     description:
       Top 10 in major (180)
       Obtains the outstanding graduate title
