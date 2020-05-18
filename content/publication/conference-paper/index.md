@@ -30,7 +30,7 @@ summary: submited
 
 tags:
 - SLAM
-featured: true
+featured: false
 
 links:
 - name: Custom Link
@@ -67,4 +67,3 @@ projects:
 slides: example
 ---
 
-{{< video library="1" src="Iros.mp4" controls="yes" >}}
