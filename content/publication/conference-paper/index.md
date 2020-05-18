@@ -7,7 +7,7 @@ authors:
 - Fang Wan
 - Wenmi Zhuang
 - Yang Zhao
-date: "2020-03-01T00:00:00Z"
+date: "2020-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,22 +32,22 @@ tags:
 - SLAM
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# links:
+# - name: Custom Link
+#   url: http://example.org
+# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: '3D scene graph'
   focal_point: ""
   preview_only: false
 
@@ -56,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: '3Dscene-project'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -66,3 +66,5 @@ projects: []
 slides: example
 ---
 
+
+{{< video library="1" src="Iros.mp4" controls="yes" >}}
