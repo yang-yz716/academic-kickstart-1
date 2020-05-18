@@ -23,7 +23,7 @@ bio: My research interests include mobile robotics, SLAM and deep reinforencemen
 interests:
 - Artificial Intelligence
 - Robotics
-- SLAM
+- Target-driven Navigation
 
 education:
   courses:
@@ -39,7 +39,7 @@ education:
       Second-class academic scholarship
   - course: BSc in Automation
     institution: Shandong University of Science and Technology
-    year: 2018
+    year: 2014-2018
     description:
       Top 10 in major (180)
       Obtains the outstanding graduate title
@@ -52,7 +52,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "yubangguosdu@163.com"  # For a direct email link, use "mailto:test@example.org".
 # - icon: csdn
 #   icon_pack: fab
 #   link: https://me.csdn.net/weixin_43823054
