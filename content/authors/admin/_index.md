@@ -52,7 +52,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "yubangguosdu@163.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:yubangguosdu@163.com"  # For a direct email link, use "mailto:test@example.org".
 # - icon: csdn
 #   icon_pack: fab
 #   link: https://me.csdn.net/weixin_43823054
