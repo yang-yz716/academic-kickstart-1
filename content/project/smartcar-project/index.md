@@ -34,6 +34,6 @@ slides: example
 
 {{< figure src="zhengshu.jpg" title="" lightbox="true" >}}
 
-{{< figure src="team.jpg" title="" lightbox="true" >}}
+{{< figure src="team.png" title="" lightbox="true" >}}
 
 {{< video library="1" src="smartcar.mp4" controls="yes" >}}

@@ -3,7 +3,7 @@ title: The design of control board
 summary: Embedded board with control, hardware and shell 
 tags:
 - Control system
-date: "2017-08-27T00:00:00Z"
+date: "2019-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
