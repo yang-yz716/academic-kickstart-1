@@ -38,4 +38,4 @@ Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoq
 
 {{< figure src="show1.jpg" title="" lightbox="true" >}}
 
-{{< video library="1" src="apriltag.mp4" controls="yes" >}}
+{{< video library="1" src="apriltag.246" controls="yes" >}}

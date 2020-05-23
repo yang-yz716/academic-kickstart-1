@@ -30,7 +30,7 @@ url_video: ""
 slides: example
 ---
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque.
+In this project, I construct and lead the team of robots in our college to finish the competition task that two robots should be designed to transmit the ball with a belt and throw the ball by the belt to target.
 
 {{< figure src="zhengshu.jpg" title="" lightbox="true" >}}
 

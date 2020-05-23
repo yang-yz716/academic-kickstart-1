@@ -1,5 +1,5 @@
 ---
-title: Open loop optimize SLAM
+title: Cloud-based Open loop optimize SLAM
 summary: Open loop optimize SLAM based on Cartographer
 tags:
 - SLAM
@@ -29,10 +29,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+Based on Cartographer, we focus on how to build map in gallery with sparse features using 2D laser. Apriltag is used as the position-known landmark to build the constraint and add it to global optimization. The accumulated error is adjusted by the extra constraint in sparse feature gallery and the failure of building map is avoided. Websocket is used to achieve the cloud-based mapping, which the sensor data is captured by the mobile robot and calculation is run in the cloud server.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
-
-{{< figure src="onmi.jpg" title="" lightbox="true" >}}
+{{< figure src="board.jpg" title="" lightbox="true" >}}
 
 {{< video library="1" src="slam.mp4" controls="yes" >}}
 
