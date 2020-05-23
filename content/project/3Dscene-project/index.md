@@ -40,7 +40,7 @@ This paper presented a bottom-up framework of structured 3D scene graph generati
 
 {{< figure src="result_table.jpg" title="The result of the accuracy from different methods." lightbox="true" >}}
 
-We use laser to provide the location information and use scene graph to finish the navigation.
+We use laser to provide the location information and use scene graph to achieve the target-driven navigation.
 
 {{< figure src="demo.jpg" title="The demo in webots to achieve the task of semantic navigation." lightbox="true" >}}
 
