@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mobile robotics, SLAM and deep reinforencement learning in automantic explosion.
+bio: My research interests include mobile robotics, SLAM and deep reinforencement learning in target-driven navigation.
 
 interests:
 - Artificial Intelligence
