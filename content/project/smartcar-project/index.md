@@ -31,7 +31,9 @@ slides: example
 ---
 
 In this contest, we desgin two cars to finish the race in as short a time as possible. During special section, the car behind should overtake the car in front.
-To finish the contest, we start learning the MCU of K60, including the output of PWM, communication of UART, and other interface with different sensor, like the camera, ultrasonic, IMU,and so on. Then we design the circuit board for two cars to integrate various interfaces and modules. After assembling two cars, the camera is used to recognize the different type of race, the PID is used to close up the speed of motors, and the ultrasonic is used to detect the distance between two cars during the running and overtaking.
+
+To finish the contest, we start learning the MCU of K60, including the output of PWM, communication of UART, and other interface with different sensor, like the camera, ultrasonic, IMU, and so on. Then we design the circuit board for two cars to integrate various interfaces and modules. After assembling two cars, the camera is used to recognize the different type of race, the PID is used to close up the speed of motors, and the ultrasonic is used to detect the distance between two cars during the running and overtaking.
+
 We got the national 2nd prize in National Undergraduate Smart Car Contest, which is the most important contest in major of Automation. As the captain, the embeded programing, control algorithm and mechanical adjustment are my contribution.
 
 {{< figure src="zhengshu.jpg" title="" lightbox="true" >}}
