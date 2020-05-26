@@ -33,6 +33,10 @@
   url = "#publications"
   weight = 50
 
+[[main]]
+  name = "Publications"
+  url = "https://blog.csdn.net/weixin_43823054"
+  weight = 50
 
 
 
