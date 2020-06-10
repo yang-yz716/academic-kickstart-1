@@ -66,5 +66,16 @@ projects: []
 slides: example
 ---
 
-{{< video library="1" src="Iros.mp4" controls="yes" >}}
+{{< figure src="AOG.jpg" title="The AOG structure." lightbox="true" >}}
 
+{{< figure src="infer.jpg" title="The infer from perception." lightbox="true" >}}
+
+{{< figure src="result_graph.jpg" title="The result of the parse graph from different methods." lightbox="true" >}}
+
+{{< figure src="result_table.jpg" title="The result of the accuracy from different methods." lightbox="true" >}}
+
+We use laser to provide the location information and use scene graph to achieve the target-driven navigation.
+
+{{< figure src="demo.jpg" title="The demo in webots to achieve the task of semantic navigation." lightbox="true" >}}
+
+{{< video library="1" src="Iros.mp4" controls="yes" >}}
