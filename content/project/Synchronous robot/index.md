@@ -34,7 +34,7 @@ In this project, two cars which hold the end of a pipe run around the same cente
 
 The STM32f103 is used to receive the sensor data, calculate the control algorithm and output the PWM signal of motor. We use the camera to detect the black line to track, use the rotary potentiometer to detect the relative position between two cars and use PID algorithm to control one car following another car. To prevent the pipe slipping out, we design the relative accelerated speed between two cars to let the pipe slide outward during the curve, so the slide inward can in the straightway can be counteracted. The sensor of optoelectronic switch is used to detect the pipe's position of sliding in outside car.
 
-We won the championship in this group of the 5th Shandong Provincial University Robot Competition by running 41 laps without sliding the pipe in three minutes. The result was twice over the second place.
+We won the championship in this group of the 5th Shandong Provincial University Robot Competition by running 41 laps without sliding the pipe in three minutes. The score was twice higher than the second place.
 Our team has three people. As the captain, the whole design and debug of the code, and the improvement of the machinery.
 
 {{< figure src="syn.png" title="" lightbox="true" >}}
