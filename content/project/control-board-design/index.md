@@ -32,4 +32,4 @@ slides: example
 
 We designed the embedded control board hardware and shell which are shown as follows. More than ten boards are controlled simultaneously and each board communicates with server by CAN. The control board is used to read the wheel encoder, detect the environment humidity and pH value, and control strong electricity (220 AC) by weak current (5V DC).
 
-{{< figure src="cascade.jpg" title="" lightbox="true" >}}
+{{< figure src="niu.jpg" title="" lightbox="true" >}}

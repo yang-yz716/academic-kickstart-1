@@ -30,7 +30,7 @@ image:
 slides: example
 ---
 
-Our team designed a Ball and Plate control system with rgb camera. We used camera to detect the color, position and velocity of the ball, and used the PID algorithm to set the velocity and position close loop to achieve the control performance of ball's movement. The ball running around the center and tracking other ball are shown as follows.
+Our team designed a Ball and Plate control system with an rgb camera. We used the camera to detect the color, position and velocity of the ball, and used the PID algorithm to set the velocity and position close loop to achieve the control performance of the ball's movement. The ball running around the center and tracking the other ball are shown as follows.
 
 {{< figure src="machine.jpg" title="" lightbox="true" >}}
 

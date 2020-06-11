@@ -30,8 +30,9 @@ image:
 slides: example
 ---
 
-In this project, I construct and lead the team of robots in our college to finish the competition task that two robots should be designed to transmit the ball with a belt and throw the ball by the belt to target. Our team won championship in the Shandong province contest twice, the national first prize in National contest and I also won the title of excellent caption.
-Our team contains three groups, which are hardware, software and machinery. As the captain, I focused on software while also directing the work of other groups, so some knowledge of hardware and machinery can be got in this contest. My main work in this contest is IMU and wheel encoder based omnidirectional mobile robot, which the IMU and wheel encoder data can be fused to calculate the position of the robot. This is also my bachelor's thesis.
+In this project, I construct and lead the team of robots in our college to finish the competition task that two robots should be designed to transmit the ball with a belt and throw the ball by the belt to target. Our team won the championship in the Shandong province contest twice, the national first prize in the National contest and I also won the title of excellent caption.
+
+Our team contains three groups, which are hardware, software and machinery. As the captain, I focused on software while also directing the work of other groups, so some knowledge of hardware and machinery can be got in this contest. My main work in this contest is IMU and wheel encoder based omnidirectional mobile robot, which the IMU and wheel encoder data can be fused to calculate the position of the robot. This is also my graduation project.
 
 {{< figure src="zhengshu.jpg" title="" lightbox="true" >}}
 
@@ -41,4 +42,5 @@ Our team contains three groups, which are hardware, software and machinery. As t
 
 {{< figure src="team.jpg" title="" lightbox="true" >}}
 
+{{< video library="1" src="bachelor.mp4" title="My graduation project" controls="yes" >}}
 {{< video library="1" src="robocon.mp4" controls="yes" >}}
