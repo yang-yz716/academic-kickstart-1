@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Control system"
+    name = "Control System"
     tag = "Control system"
   
   [[content.filter_button]]
@@ -34,7 +34,7 @@ subtitle = ""
     tag = "SLAM"
 
   [[content.filter_button]]
-    name = "Reinforcement learning"
+    name = "Reinforcement Learning"
     tag = "RL"
 
 [design]
