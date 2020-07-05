@@ -31,9 +31,9 @@ tags:
 - SLAM
 featured: true
 
-links:
-- name: Custom Link
-  url: = "https://yubangguo.com/publication/conference-paper/"
+# links:
+# - name: Custom Link
+#   url: = "files/cv.pdf"
 # url_pdf: url = "files/cv.pdf"
 # url_code: '#'
 # url_dataset: '#'
