@@ -36,6 +36,6 @@ According to the prior work, I think the task of ObjectNav in multi-room scene i
 {{< figure src="framework.png" title="The framework of target-driven semantic navigation." lightbox="true" >}}
 I think it’s very interesting research for the mobile robot and by this way the robot can really understand the world better.
 
-Now I have build my own Objectnav datasets using Gibson. The detail of the Objectnav datasets is shown in "https://github.com/ybgdgh/Habitat-Objectnav-Task-Datadet-Geneartion".
+Now I have build my own Objectnav datasets using Gibson. The detail of the Objectnav datasets are shown in "https://github.com/ybgdgh/Habitat-Objectnav-Task-Datadet-Geneartion".
 
 {{< video library="1" src="trajectory.mp4" controls="yes" >}}
