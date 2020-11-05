@@ -3,6 +3,8 @@ title: "Visual Target Navigation using 3D Scene Priors"
 authors:
 - Bangguo Yu
 - Fengyu Zhou*
+- Ke Chen
+- Zhiyong Yang
 date: "2020-11-01T00:00:00Z"
 doi: ""
 
@@ -52,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- target-drivin navigation
+- target navigation
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

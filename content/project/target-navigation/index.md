@@ -25,4 +25,4 @@ Abstract: Recently, visual target navigation is important and non-trivial for au
 
 Now I have build my own Objectnav datasets using Gibson. The detail of the Objectnav datasets are shown in "https://github.com/ybgdgh/Habitat-Objectnav-Task-Datadet-Geneartion".
 
-{{< video library="1" src="https://youtu.be/IhUz0O11aBo" controls="yes" >}}
+{{< video library="1" src="Target Navigation.mp4" controls="yes" >}}
