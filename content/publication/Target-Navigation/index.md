@@ -64,4 +64,12 @@ projects:
 slides: example
 ---
 
+{{< figure src="framework.jpg" title="The framework of our approach." lightbox="true" >}}
 
+{{< figure src="R-GCN.jpg" title="The process of the 3D scene priors encoding with R-GCN method." lightbox="true" >}}
+
+{{< figure src="experiment.jpg" title="Viausl target navigation experiment in Habitat simulator to find a couch in different timesteps." lightbox="true" >}}
+
+{{< figure src="results.jpg" title="" lightbox="true" >}}
+
+{{< video library="1" src="Target Navigation.mp4" controls="yes" >}}
