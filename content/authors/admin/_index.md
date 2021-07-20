@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  - course: PhD in Robotics
+    institution: University of Groningen
+    year: 2021.10 - Now
   - course: MEng in Control Engineering
     institution: Shandong University
-    year: 2018.09 - now
+    year: 2018.09 - 2021.6
     description:
       Postgraduate recommendation
       Outstanding freshman scholarship
