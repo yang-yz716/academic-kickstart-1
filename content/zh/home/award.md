@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "华为云"
   organization_url = "https://competition.huaweicloud.com/competitions?track=113"
-  title = "Top 40(875 teams) | 2020 华为软件精英挑战赛"
+  title = "Top 40(875 teams) | 2020 华为软件精英挑战赛江山赛区"
   url = "https://competition.huaweicloud.com/information/1000036578/introduction?track=113"
   certificate_url = ""
   date_start = "2020-04-27"

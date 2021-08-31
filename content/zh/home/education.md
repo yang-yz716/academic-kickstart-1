@@ -18,34 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Shandong University"
-  company = "M.S. in Control Science and Engineering"
+  title = "山东大学"
+  company = "控制科学与工程硕士研究生"
   company_url = "https://en.wikipedia.org/wiki/Shandong_University"
-  location = "Jinan, China"
+  location = "济南, 中国"
   date_start = "2019-09-01"
   date_end = ""
   description = """ 
   
   
-  * Postgraduate Recommendation
-  * Outstanding Freshman Scholarship(Top 3%)
-  * Outstanding Student Scholarship (Grade 1)(4/83)
+  * 研究生保送推荐
+  * 研究生优秀生源奖学金(Top 3%)
+  * 研究生学业奖学金 (一等奖)(4/83)
   """
 
 [[experience]]
-  title = "Shandong University"
-  company = "B.S. in Automation Science"
+  title = "山东大学"
+  company = "测控技术与仪器学士学位"
   company_url = "https://www.sdu.edu.cn"
-  location = "Jinan, China"
+  location = "济南, 中国"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
   description = """ 
   
-  * Outstanding Graduates
-  * Excellent League Member
-  * Excellent Student Cadre
-  * Outstanding Student Scholarship (Grade 2)
-  * Komatsu Sino Japanese scholarship
+  * 山东大学优秀毕业生
+  * 优秀共青团员
+  * 优秀学生干部
+  * 山东大学学业奖学金 (二等奖)
+  * 小松中日奖学金
   """
 
 +++
