@@ -23,38 +23,38 @@ subtitle = ""
 [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
-  name = "Navigation"
-  description = "Mapping, Location, Object Detection, Target-driven Navigation"  
+  name = "机器人导航"
+  description = "地图构建, 定位, 物体检测, 目标导航"  
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = "Robotics"
-  description = "ROS, PID Control, Sensor, Filtering Algorithm"
+  name = "机器人技术"
+  description = "ROS, PID控制, 传感器融合, 滤波算法"
 
 [[feature]]
   icon = "leanpub"
   icon_pack = "fab"
-  name = "Machine Learning"
-  description = "Deep Learning, Reinforcement Learning"
+  name = "机器学习"
+  description = "深度学习, 强化学习"
   
 [[feature]]
   icon = "raspberry-pi"
   icon_pack = "fab"
-  name = "Embedden System"
+  name = "嵌入式系统开发"
   description = "STM32, CAN, UART, IIC, SPI" 
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Programming"
+  name = "编程语言"
   description = "C++, Python3, C, MATLAB" 
   
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
-  name = "Tools"
-  description = "Linux, Git, Docker, VScode, RoboWare, Jupyter, Photoshop, Premiere Pro, Illustrator, LightRoom" 
+  name = "工具应用"
+  description = "Linux, Git, Docker, VScode, RoboWare, Jupyter, Photoshop, Premiere Pro" 
 
 # Uncomment to use emoji icons.
 # [[feature]]

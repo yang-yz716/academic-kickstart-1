@@ -54,7 +54,7 @@ subtitle = ""
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = "Linux, Git, Docker, VScode, RoboWare, Jupyter, Photoshop, Premiere Pro, Illustrator, LightRoom" 
+  description = "Linux, Git, Docker, VScode, RoboWare, Jupyter, Photoshop, Premiere Pro" 
 
 # Uncomment to use emoji icons.
 # [[feature]]
