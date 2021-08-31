@@ -21,6 +21,7 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- 数据挖掘与机器学习
 - 机器人导航
 - 嵌入式系统开发
 

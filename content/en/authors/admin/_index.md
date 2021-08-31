@@ -21,10 +21,9 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Deep Reinforcement Learning
-- Target-driven Navigation
+- Data Mining&Machine Learning
+- Robotics Navigation
 - Embedded System
-- Robotics
 
 
 
