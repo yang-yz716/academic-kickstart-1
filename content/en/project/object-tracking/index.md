@@ -38,4 +38,4 @@ We use apriltag to achieve the object tracking and use ROS to display the tracki
 
 {{< figure src="show1.jpg" title="" lightbox="true" >}}
 
-{{< video library="1" src="apriltag.mp4" controls="yes" >}}
+{{< video src="apriltag.mp4" controls="yes" >}}
