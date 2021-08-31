@@ -83,10 +83,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Authors
-- Zhiyong Yang
+- Visitors
 ---
 
-hhh this is my biography 
+hhh this is my biography! 
 
 update 04/10/2021
