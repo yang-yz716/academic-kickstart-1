@@ -32,6 +32,7 @@ date_format = "Jan 2006"
   * Outstanding Graduate Innovation Award
   * Outstanding Freshman Scholarship(Top 3%)
   * Outstanding Student Scholarship (Grade 1)(4/83)
+  * Literary Arts Department Minister
   """
 
 [[experience]]
