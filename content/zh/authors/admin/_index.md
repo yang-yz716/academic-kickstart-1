@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Zhiyong Yang
+title: 杨志勇
 
 # Username (this should match the folder name)
 authors:
-- Zhiyong Yang
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postgraduate Student of Control Science and Engineering
+role: 控制科学与工程\n硕士研究生
 
 # Organizations/Affiliations
 organizations:
@@ -86,6 +86,6 @@ user_groups:
 - Visitors
 ---
 
-hhh this is my biography! 
+hhh this is my biography 
 
 update 04/10/2021
