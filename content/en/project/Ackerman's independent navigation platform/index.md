@@ -39,4 +39,4 @@ Main responsibilities: development of navigation control system and safety prote
 
 Acceptance criteria: operating in an environment with undulating roads, 2D laser mapping area ≥ 1W square meters, outdoor positioning in open areas ≤ 10 cm, indoor laser positioning accuracy ≤ 3 cm, autonomous planning of paths, real-time obstacle avoidance operation for dynamic objects , The vehicle running speed ≥ 1 m/s.
 
-{{< video src="static/media/Trim.mp4" controls="yes" >}}
+{{< video library="1" src="static/media/Trim.mp4" controls="yes" >}}
