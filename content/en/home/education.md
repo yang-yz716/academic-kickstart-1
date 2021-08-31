@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   
   * Postgraduate Recommendation
   * Advanced Individual of Social Work
+  * Outstanding Graduate Innovation Award
   * Outstanding Freshman Scholarship(Top 3%)
   * Outstanding Student Scholarship (Grade 1)(4/83)
   """

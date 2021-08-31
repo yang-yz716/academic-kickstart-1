@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "教育"
+title = "教育经历"
 subtitle = ""
 
 # Date format for experience
@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   
   * 研究生保送推荐
   * 社会工作先进个人
+  * 研究生创新竞赛奖
   * 研究生优秀生源奖学金(Top 3%)
   * 研究生学业奖学金 (一等奖)(4/83)
   """
