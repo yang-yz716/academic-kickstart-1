@@ -10,21 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: 控制科学与工程\n硕士研究生
+role: 控制科学与工程硕士研究生
 
 # Organizations/Affiliations
 organizations:
-- name: Shandong University
+- name: 山东大学
   url: "https://www.sdu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Deep Reinforcement Learning
-- Target-driven Navigation
-- Embedded System
-- Robotics
+- 机器人导航
+- 嵌入式系统开发
 
 
 
@@ -39,11 +37,11 @@ education:
 #  - course: Test for English Major Grade 4 Certificate
 #    institution: PASS
 #    year: 567
-  - course: Shandong University
-    institution: Master of Science in Control Science and Engineering
-    year: 2019-now
-  - course: Shandong University
-    institution: Bachelor of Engineering in Automation Science and Technology
+  - course: 山东大学
+    institution: 控制科学与工程硕士在读
+    year: 2019至今
+  - course: 山东大学
+    institution: 测控技术与仪器学士学位
     year: 2015-2019
 #  - course: National Mandarin Test
 #    institution: 
@@ -74,7 +72,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
