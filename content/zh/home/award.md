@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Awards"
+title = "获奖"
 subtitle = ""
 
 # Date format
@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "中国电子学会"
+  organization_url = "https://www.cie-info.org.cn/"
+  title = "全国二等奖 | \"绍芯之光-兆易创新杯\"第16届中国研究生电子设计竞赛"
+  url = "https://cpipc.chinadegrees.cn//cw/detail/6/2c9088a76bc587c8016c9bb4c89766a2"
+  #certificate_url = ""
+  date_start = "2021-08-12"
+  date_end = "2021-08-13"
+  description = ""
+
 
 [[item]]
   #organization = ""
@@ -52,7 +62,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "中国电子学会"
   organization_url = "https://www.cie-info.org.cn/"
-  title = "全国二等奖 | 中国研究生电子设计竞赛"
+  title = "全国二等奖 | \"兆易创新杯\"第14届中国研究生电子设计竞赛"
   url = "https://cpipc.chinadegrees.cn//cw/detail/6/2c9088a76bc587c8016c9bb4c89766a2"
   #certificate_url = ""
   date_start = "2019-05-16"

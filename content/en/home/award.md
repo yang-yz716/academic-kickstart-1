@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "Chinese Institute of Electronics"
+  organization_url = "https://www.cie-info.org.cn/"
+  title = "National Second Prize | The 16th China Graduate Electronics Design Contest"
+  url = "https://cpipc.chinadegrees.cn//cw/detail/6/2c9088a76bc587c8016c9bb4c89766a2"
+  #certificate_url = ""
+  date_start = "2021-08-12"
+  date_end = "2021-08-13"
+  description = ""
+
 
 [[item]]
   #organization = ""
