@@ -29,17 +29,6 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  #organization = ""
-  #organization_url = ""
-  title = "山东大学研究生创新竞赛奖"
-  #url = ""
-  #certificate_url = ""
-  date_start = "2020-06-27"
-  #date_end = ""
-  description = ""
-
-
-[[item]]
   organization = "华为云"
   organization_url = "https://competition.huaweicloud.com/competitions?track=113"
   title = "Top 40(875 teams) | 2020 华为软件精英挑战赛江山赛区"
