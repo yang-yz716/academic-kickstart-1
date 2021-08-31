@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ 
   
-  
+  \n
   * 研究生保送推荐
   * 社会工作先进个人
   * 研究生创新竞赛奖
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
   description = """ 
-  
+  \n
   * 山东大学优秀毕业生
   * 优秀共青团员
   * 优秀学生干部
