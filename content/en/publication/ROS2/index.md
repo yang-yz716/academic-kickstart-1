@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted In *2021 IEEE International Conference on Robotics and Automation*
-publication_short: In *ICRA2021*
+publication: State Intellectual Property Office of the P.R.C
+publication_short: In *CNIPA*
 
 abstract: The present disclosure provides a distributed cloud navigation system and navigation method based on ROS2. Among them, the system includes the bottom layer, which includes at least one robot. The robots are equipped with sensor modules. The sensor modules are used to collect the robot's environmental data and its own motion state data. Among them, the robot and its interactive devices respectively serve as nodes to form a ROS network; The global data space, as a network layer, is used to realize the mutual communication between the robot and the cloud server, and to receive topic publishing or topic subscription related data sent by each node in the ROS network; the cloud server, which is configured to receive the robot uploads Environmental data and its own motion state data, calculate the control information of the robot and locate and plan the path of the robot, so that the robot can move to the designated position; the management layer is configured to communicate with each node in the ROS network. To monitor the running status of the distributed cloud navigation system. 
 
