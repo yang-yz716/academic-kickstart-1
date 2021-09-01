@@ -44,4 +44,4 @@ slides: example
 
 系统使用自主设计的一套串口通信协议，可以通过该协议在其他设备上进行不同目标的位姿读取，并将其转化为ROS话题发布，可以在RVIZ可视化软件中实时观测每个待检测目标的运动姿态与运动轨迹。
 
-{{< video library="1" src="apriltag.mp4" controls="yes" >}}
+{{< video src="apriltag.mp4" controls="yes" >}}
