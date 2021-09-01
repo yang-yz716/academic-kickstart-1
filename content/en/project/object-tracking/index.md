@@ -1,6 +1,6 @@
 ---
 title: Object Tracking
-summary: Object tracking based on IndustriPi
+summary: Object Tracking Based on Industri_Pi
 tags:
 - Control system
 date: "2019-08-27 T00:00:00Z"
