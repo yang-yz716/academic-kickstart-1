@@ -53,7 +53,7 @@ The ROS1 executable program is updated and transplanted based on the ROS2 code s
 
 {{< figure src="2222.jpg" title="" lightbox="true" >}}
 
-The real shot and structure layout of the scene are shown in the figure
+The real shot and structure layout of the scene are shown in the figure.
 
 
 {{< figure src="MAPPING.jpg" title="" lightbox="true" >}}

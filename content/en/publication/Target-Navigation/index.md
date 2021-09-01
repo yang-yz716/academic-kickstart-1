@@ -72,4 +72,4 @@ slides: example
 
 {{< figure src="results.jpg" title="" lightbox="true" >}}
 
-{{< video library="1" src="Target Navigation.mp4" controls="yes" >}}
+{{< video src="Target Navigation.mp4" controls="yes" >}}
